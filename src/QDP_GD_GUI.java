@@ -1,6 +1,8 @@
+package src;
 import javax.swing.JOptionPane;
 
-public class App {
+// Quartile, Decile, and Percentile of Grouped Data using Java Swing Library
+public class QDP_GD_GUI { 
     public static void main(String[] args) throws Exception {
         
         //Inputs

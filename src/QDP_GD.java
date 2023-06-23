@@ -1,10 +1,9 @@
 package src;
-import java.util.*;
 import java.util.Scanner;
+//import java.util.*;
 
-
-
- public class Quartile_Decile_Percentile_GD
+// Quartile, Decile, and Percentile of Grouped Data Calculator in Command Line Interface
+ public class QDP_GD
  {
    public static void main(String args[])
    { 

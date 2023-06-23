@@ -1,6 +1,8 @@
+package src;
 import javax.swing.JOptionPane;
 
-public class App{
+// Hypotenuse Calculator using Java Swing Library
+public class Hypotenuse_GUI{
   public static void main(String[] args){
     double a = Double.parseDouble(JOptionPane.showInputDialog("Opposite = "));
     double b = Double.parseDouble(JOptionPane.showInputDialog("Adjacent = "));

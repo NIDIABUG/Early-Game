@@ -1,8 +1,9 @@
 package src;
 import java.util.Scanner;
-import java.util.*;
+//import java.util.*;
 
-public class Quartile_Decile_Percentile_UD
+// Quartile, Decile, and Percentile of Ungrouped Data Calculator in Command Line Interface
+public class QDP_UD
 {
     public static void main(String[] args){
         double Opr;
